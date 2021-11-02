@@ -1,0 +1,18 @@
+211101.01:
+	REF: migrated from ant project (j-utils) to maven project.
+	CMM: Initial commit to local git and gitlab.cenpalab.cu.
+
+
+BUG: bug fix.
+WRK: bug workaround (hopefully temporary).
+ADD: added functionality.
+DEL: removed functionality.
+MOD: changed how something works.
+CUP: code or comments cleanup.
+REF: refactoring.
+NTE: Note on functioning.
+DBC: Database change, backwards compatible.
+DBN: Database change, non-backwards compatible.
+LIB: Rebuild because of change in lib.
+CMM: Comment...
+
