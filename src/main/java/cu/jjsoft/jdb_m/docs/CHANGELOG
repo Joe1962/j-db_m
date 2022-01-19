@@ -1,6 +1,8 @@
 211101.01:
 	REF: migrated from ant project (j-utils) to maven project.
 	CMM: Initial commit to local git and gitlab.cenpalab.cu.
+220119.01:
+	CMM: changed to version 2.00 (due to maven migration, etc.).
 
 
 BUG: bug fix.
