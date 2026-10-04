@@ -6,8 +6,8 @@ package cu.jjsoft.jdb_m;
 
 import static cu.jjsoft.jdb_m.DBActions.doQuery;
 import static cu.jjsoft.jdb_m.DBActions.getMyConn;
-import static cu.jjsoft.jutils_m.SUB_Utils.echoClassMethodComment;
-import static cu.jjsoft.jutils_m.SUB_Utils.echoln;
+import static cu.jjsoft.jutils_m.subs.SUB_UtilsNotifications.echoClassMethodComment;
+import static cu.jjsoft.jutils_m.subs.SUB_UtilsNotifications.echoln;
 import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

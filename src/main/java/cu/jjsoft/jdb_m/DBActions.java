@@ -7,7 +7,7 @@ package cu.jjsoft.jdb_m;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvException;
-import static cu.jjsoft.jutils_m.SUB_Utils.echoln;
+import static cu.jjsoft.jutils_m.subs.SUB_UtilsNotifications.echoln;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
